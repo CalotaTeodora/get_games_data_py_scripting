@@ -32,12 +32,6 @@ To use this project, follow the installation steps:
     cd project-name
     ```
 
-3. **Other installation steps if needed.**
+## Contributions
 
-## Usage
-
-Explain how to use the project. It may include code examples or screenshots.
-
-```python
-# Code example
-print("Hello, world!")
+If you want to contribute to the project, follow the outlined steps in the "Contributions" section of the README.
