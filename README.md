@@ -1,29 +1,27 @@
-# Numele Proiectului
+# Project Name
 
-Descriere concisă a proiectului.
+Concise description of the project.
 
-## Instalare
+## Installation
 
-Pentru a utiliza acest proiect, urmați pașii de instalare:
+To use this project, follow the installation steps:
 
-1. Clonează acest repository:
-
+1. **Clone this repository:**
     ```bash
-    git clone https://github.com/utilizator/nume-proiect.git
+    git clone https://github.com/user/project-name.git
     ```
 
-2. Intră în directorul proiectului:
-
+2. **Navigate to the project directory:**
     ```bash
-    cd nume-proiect
+    cd project-name
     ```
 
-3. Alți pași de instalare dacă sunt necesari.
+3. **Other installation steps if needed.**
 
-## Utilizare
+## Usage
 
-Explică cum să folosești proiectul. Poate include exemple de cod sau capturi de ecran.
+Explain how to use the project. It may include code examples or screenshots.
 
 ```python
-# Exemplu de cod
-print("Salut, lume!")
+# Code example
+print("Hello, world!")
